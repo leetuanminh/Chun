@@ -1,0 +1,80 @@
+* {
+    font-family: 'Readex Pro', sans-serif;
+}
+html,
+body {
+    height: 100%;
+}
+body {
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #f1f1f1;
+    
+}
+
+.cmsn {
+    /* padding: 100px 20px 30px 20px;  */
+    padding-left: 20px;
+    padding-top: 30px;
+    color: black;
+    font-size: 10px;
+}
+
+.tamsu {
+    padding-left: 20px;
+    padding-top: 30px;
+    color: black;
+    font-size: 10px;
+    
+}
+
+.click {
+    text-decoration: none;
+    color: black;
+}
+
+.tamsu:hover .click{
+    color: red;
+    border: solid 1px black;
+    border-radius: 5px;
+}
+
+.linhtinh {
+    padding-left: 20px;
+    padding-top: 30px;
+    color: black;
+    font-size: 10px;
+}
+
+.hehe {
+    margin: 50px 200px 80px 100px;
+}
+
+/* hết chúc */
+/* tâm sự */
+
+.ehe {
+    width: 100%;
+    text-align: center;
+}
+
+.mong {
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: 6px;
+}
+
+.aha {
+    text-align: center;
+}
+
+/* giải thích */
+
+.giaithich {
+    padding-left: 20px;
+    padding-top: 30px;
+    color: black;
+    font-size: 10px;
+}
